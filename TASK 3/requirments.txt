@@ -1,0 +1,6 @@
+# No external dependencies required.
+# Uses Python standard library modules:
+# sqlite3
+# hashlib
+# os
+# getpass
